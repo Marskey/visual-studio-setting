@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.lineNumbers": "relative",
+    "vim.handleKeys": {
+        "<C-f>" : false,
+        "<C-l>" :false
+    },
+    "vim.visualstar": true,
+    "git.ignoreMissingGitWarning": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "vim.easymotion": true,
+    "vim.surround": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+}
